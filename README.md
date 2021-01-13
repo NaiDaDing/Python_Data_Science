@@ -1,4 +1,4 @@
-# ML100Days
-# Data cleaning and pre-processing  
+# Python Data Science 60Days  
+# Numpy  
 Day2 : Numpy basis  
 
