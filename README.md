@@ -1,4 +1,4 @@
 # Python Data Science 60Days  
 # Numpy  
-Day2 : Numpy basis  
+Day1 : Numpy basis  
 
